@@ -31,4 +31,9 @@ Skills: **LARAVEL** / **PHP** / **REACT** / **JS** / **Bootstrap** / **Tailwind 
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ikramulhasan1)  
 
-![Profile views](https://gpvc.arturio.dev/ikramulhasan1)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramulhasan1&label=Profile%20views&color=0e75b6&style=flat" alt="ikramulhasan1" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
