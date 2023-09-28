@@ -7,7 +7,7 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 Skills: **LARAVEL** / **PHP** / **REACT** / **JS** / **Bootstrap** / **Tailwind CSS** / **HTML** / **CSS**
 
-- 🌱 I’m currently learning JavaScript 
+- <a href="https://www.flaticon.com/free-icons/javascript" title="javascript icons">Javascript icons created by Freepik - Flaticon</a> I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 
 
