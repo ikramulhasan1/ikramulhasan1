@@ -7,7 +7,7 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 Skills: **LARAVEL** / **PHP** / **REACT** / **JS** / **Bootstrap** / **Tailwind CSS** / **HTML** / **CSS**
 
-- <img src='[https://www.flaticon.com/free-icons/javascript" title="javascript icons](https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png)'> I’m currently learning JavaScript 
+- <img src='[https://www.flaticon.com/free-icons/javascript" title="javascript icons](https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw0GZYnspmuVfLQnu_qWcsSu&ust=1695991602140000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi775mrzYEDFQAAAAAdAAAAABAI)'> I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on GitHub 
 
 
