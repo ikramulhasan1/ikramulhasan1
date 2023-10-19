@@ -49,3 +49,9 @@ Passionate web developer with expertise in front-end and back-end development. S
 ## 📧 For Business Inquiries 
 ✅  ► hasanikramul926@gmail.com
 
+<p align="center">
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
