@@ -51,21 +51,11 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 
+## Connect with Me
 
-<!-- Connect with me -->
-<h2 align="center">Let's Connect</h2>
+You can connect with me through the following platforms:
 
-<p align="center">
-  <a href="https://your-website.com">
-    <img src="https://your-image-url.com/website-icon.png" alt="Website" width="40px" style="margin: 0 20px;">
-  </a>
-  <a href="https://www.facebook.com/your-profile">
-    <img src="https://your-image-url.com/facebook-icon.png" alt="Facebook" width="40px" style="margin: 0 20px;">
-  </a>
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://your-image-url.com/linkedin-icon.png" alt="LinkedIn" width="40px" style="margin: 0 20px;">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://your-image-url.com/email-icon.png" alt="Email" width="40px" style="margin: 0 20px;">
-  </a>
-</p>
+- [Website](https://www.yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Facebook](https://www.facebook.com/yourprofile)
+- Email: your.email@example.com
