@@ -11,8 +11,8 @@ Passionate web developer with expertise in front-end and back-end development. S
 ✅ HTML5 / CSS3 <br>
 ✅ Bootstrap / Tailwind CSS <br>
 ✅ JavaScript <br>
-✅ Currently learning **React.js** <br>
-✅ Illustrator <br>
+🎓 Currently learning **React.js** <br>
+
 
 
 
