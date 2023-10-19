@@ -1,7 +1,7 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQEcqX01WLZnQA/profile-displaybackgroundimage-shrink_350_1400/0/1697727986721?e=1703116800&v=beta&t=ACanj4bYRBzj0pvfBnfzAtsRmDp8yv3VXSepBkFqCds)
 
 ### Hi there 👋, I'm Ikramul Hasan
-## Passionate Front-End & Back-End Developer | Building Web Solutions
+## Front-End & Back-End Developer
 
 Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.
 
