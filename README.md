@@ -49,9 +49,20 @@ Passionate web developer with expertise in front-end and back-end development. S
 ## 📧 For Business Inquiries 
 ✅  ► hasanikramul926@gmail.com
 
-<p align="center">
-  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<!-- Contact Section -->
+<h2 align="center">Let's Connect</h2>
 
+<p align="center">
+  <a href="https://your-website.com">
+    <img src="https://your-image-url.com/website-icon.png" alt="Website" width="40px" style="margin-right: 20px;">
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://your-image-url.com/linkedin-icon.png" alt="LinkedIn" width="40px" style="margin-right: 20px;">
+  </a>
+  <a href="https://www.facebook.com/your-profile">
+    <img src="https://your-image-url.com/facebook-icon.png" alt="Facebook" width="40px" style="margin-right: 20px;">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://your-image-url.com/email-icon.png" alt="Email" width="40px">
+  </a>
+</p>
