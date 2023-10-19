@@ -5,10 +5,14 @@
 
 Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.
 
-Skills: **LARAVEL** / **PHP** / **REACT** / **JS** / **Bootstrap** / **Tailwind CSS** / **HTML** / **CSS**
-
-- 💻 I’m currently learning React.js
-- 👯 I’m looking to collaborate on GitHub 
+## 👨‍💻 Skills & Experiance: 
+✅ WordPress <br> 
+✅ PHP / **Laravel** <br>
+✅ HTML5 / CSS3 <br>
+✅ Bootstrap / Tailwind CSS <br>
+✅ JavaScript <br>
+✅ Currently learning **React.js** <br>
+✅ Illustrator <br>
 
 
 
