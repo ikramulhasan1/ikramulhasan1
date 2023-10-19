@@ -11,8 +11,6 @@ Skills: **LARAVEL** / **PHP** / **REACT** / **JS** / **Bootstrap** / **Tailwind 
 - 👯 I’m looking to collaborate on GitHub 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ikramulhasan1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/theikramulhasan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://69thedeal.com/)  
-
 
 
 ## ☕ Connect with me!
