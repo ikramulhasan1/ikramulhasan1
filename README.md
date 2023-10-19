@@ -48,13 +48,3 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 ## 📧 For Business Inquiries 
 ✅  ► hasanikramul926@gmail.com
-
-
-
-## Connect with Me
-<p align="center">
-  <a href="https://your-website.com"><img src="website_icon.png" width="30"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-profile"><img src="linkedin_icon.png" width="30"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100005469316899"><img src="facebook_icon.png" width="30"></a>&nbsp;&nbsp;
-  <a href="mailto:youremail@example.com"><img src="email_icon.png" width="30"></a>
-</p>
