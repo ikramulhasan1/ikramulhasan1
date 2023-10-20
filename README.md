@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Ikramul Hasan
 # Front-End & Back-End Developer
 
-<p  style="font-size: 16px; color: red;">Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.</p>
+<p style="font-size:40px; color: red;">Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.</p>
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ WordPress <br> 
