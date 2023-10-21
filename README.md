@@ -34,25 +34,6 @@
 
 
 
-<!-- My Projects Section -->
-<h2>My Projects</h2>
-
-<p>Here are some of the projects I've created:</p>
-
-<!-- Exam System Project -->
-<h3>Exam System</h3>
-
-<p>
-  <a href="https://github.com/ikramulhasan1/Exam-System.git">
-    <img src="https://tinyurl.com/ykq3kojb" alt="Project 1" width="100px">
-  </a>
-</p>
-
-<p>
-The "Exam System" project is an online platform for conducting exams and assessments. It is built with technologies including HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, and MySQL. The system allows users to create and take exams, provides grading, and offers analytics for educators.
-</p>
-
-
 
 
 
