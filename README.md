@@ -35,37 +35,22 @@
 
 
 <!-- My Projects Section -->
-<h2 align="center">My Projects</h2>
+<h2>My Projects</h2>
 
-<p align="center">Here are some of the projects I've created:</p>
+<p>Here are some of the projects I've created:</p>
 
-<!-- Project 1 -->
-<h3 align="center">Project 1</h3>
+<!-- Exam System Project -->
+<h3>Exam System</h3>
 
-<p align="center">
-  <a href="https://github.com/your-username/project-1">
+<p>
+  <a href="https://github.com/ikramulhasan1/Exam-System.git">
     <img src="https://your-image-url.com/project-1-icon.png" alt="Project 1" width="100px">
   </a>
 </p>
 
-<p align="center">
-  Project 1 is my personal project that does X, Y, and Z. I built it using technologies A and B, and it demonstrates my skills in front-end and back-end development.
+<p>
+The "Exam System" project is an online platform for conducting exams and assessments. It is built with technologies including HTML, CSS, Bootstrap, JavaScript, PHP, Laravel, and MySQL. The system allows users to create and take exams, provides grading, and offers analytics for educators.
 </p>
-
-<!-- Project 2 -->
-<h3 align="center">Project 2</h3>
-
-<p align="center">
-  <a href="https://github.com/your-username/project-2">
-    <img src="https://your-image-url.com/project-2-icon.png" alt="Project 2" width="100px">
-  </a>
-</p>
-
-<p align="center">
-  Project 2 is another personal project that addresses specific needs in domain C. It leverages technologies D and E and showcases my expertise as a developer.
-</p>
-
-<!-- Add more of your projects as needed -->
 
 
 
