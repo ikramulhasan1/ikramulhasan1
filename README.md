@@ -44,7 +44,7 @@
 
 <p>
   <a href="https://github.com/ikramulhasan1/Exam-System.git">
-    <img src="http://127.0.0.1:8000/ui/frontend/assets/img/cover.png" alt="Project 1" width="100px">
+    <img src="https://tinyurl.com/ykq3kojb" alt="Project 1" width="100px">
   </a>
 </p>
 
