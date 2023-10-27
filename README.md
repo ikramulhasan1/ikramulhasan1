@@ -40,12 +40,6 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 
-
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ikramulhasan1)  
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramulhasan1&label=Profile%20views&color=0e75b6&style=flat" alt="ikramulhasan1" /> </p>
-
 <br>
 
 ## :mailbox: Contact with me
