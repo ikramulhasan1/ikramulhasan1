@@ -48,12 +48,12 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 <br>
 
-## :mailbox: Contact with us
+## :mailbox: Contact with me
 
 <br/>
 <br/>
 
-***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/) </p>***
+***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">]()[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/profile.php?id=100005469316899)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/in/theikramulhasan/) </p>***
 
 <br/>
 
