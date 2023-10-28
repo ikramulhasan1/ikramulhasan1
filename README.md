@@ -5,24 +5,25 @@
 
 Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.
 
+<br>
 
 <!-- Experience Section -->
 ## Experience
 
 ### 💼 GitHub Contributor
-<p>
-As a GitHub contributor, I actively participated in open-source projects and repositories, making meaningful contributions to the back-end components. My work involved implementing server-side features, optimizing database queries, and enhancing the overall performance of the projects. Collaborating with a global developer community enriched my back-end development skills.
-</p>
+
+As a GitHub contributor, I actively participated in open-source projects and repositories, making meaningful contributions to the back-end components. My work involved implementing **server-side features**, **optimizing database queries**, and enhancing the overall performance of the projects. Collaborating with a global developer community enriched my back-end development skills.
+
    
 ### 👨‍💻 Front-End Developer
-<p>
-In my role as a front-end developer, I designed and developed user-friendly and responsive web interfaces for multiple projects. I utilized HTML5, CSS3, JavaScript, and various front-end frameworks such as Bootstrap and Tailwind CSS. My work focused on creating visually appealing and performance-optimized web applications.
-</p>
+
+In my role as a front-end developer, I designed and developed user-friendly and responsive web interfaces for multiple projects. I utilized **HTML5**, **CSS3**, **JavaScript**, and various **front-end frameworks such as Bootstrap and Tailwind CSS**. My work focused on creating visually appealing and performance-optimized web applications.
+
 
 ### 👩‍💻 Back-End Developer
-<p>
-My role as a back-end developer focused on building robust server-side solutions for various projects. I utilized technologies such as Node.js, PHP, and Laravel to create scalable and efficient back-end systems. This included designing RESTful APIs, implementing authentication mechanisms, and optimizing database performance.
-</p>
+
+My role as a back-end developer focused on building robust server-side solutions for various projects. I utilized **technologies** such as Node.js, **PHP**, and **Laravel** to create scalable and efficient back-end systems. This included designing **RESTful APIs**, implementing authentication mechanisms, and optimizing database performance.
+
    
     <!-- Add more back-end development experiences with similar styling -->
   
