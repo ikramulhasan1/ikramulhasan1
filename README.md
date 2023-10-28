@@ -38,19 +38,6 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 
-<!-- Projects Section -->
-## 🌐 Projects
-  
-#### 1. Virtual Examination Center
-
-<div style="background-color: red; border-radius: 10px; padding: 20px;">
-    <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
-</div>
-
-```
-https://github.com/ikramulhasan1/Exam-System.git 
-```
-
 
 
 <br>
@@ -67,3 +54,19 @@ https://github.com/ikramulhasan1/Exam-System.git
 
 ## 📧 For Business Inquiries 
 ✅  ► hasanikramul926@gmail.com
+
+
+<br>
+
+
+<!-- Projects Section -->
+## 🌐 Projects
+  
+#### 1. Virtual Examination Center
+<p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
+
+```
+https://github.com/ikramulhasan1/Exam-System.git 
+```
+
+
