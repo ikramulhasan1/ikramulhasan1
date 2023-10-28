@@ -42,7 +42,6 @@ Passionate web developer with expertise in front-end and back-end development. S
 ### My Projects
   
 #### Project 1: Exam System
-      Developed an online exam system with features such as user authentication, question management, and scoring.
       ```
       https://github.com/ikramulhasan1/Exam-System.git 
       ```
