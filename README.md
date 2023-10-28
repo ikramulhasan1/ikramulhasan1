@@ -42,11 +42,11 @@ Passionate web developer with expertise in front-end and back-end development. S
 ### My Projects
   
 #### Project 1: Exam System
-<div style="background-color: #2A0140; border-radius: 10px; padding: 20px; width: 80%; max-width: 600px;">
-    <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
-      <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
-    </div>
+
+<div style="background-color: #2A0140; border-radius: 10px; padding: 20px;">
+    <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
 </div>
+
 ```
 https://github.com/ikramulhasan1/Exam-System.git 
 ```
