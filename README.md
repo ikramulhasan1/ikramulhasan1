@@ -7,6 +7,8 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 <br>
 
+$\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title
+
 <!-- Experience Section -->
 ## Experience
 
@@ -19,7 +21,7 @@ As a GitHub contributor, I actively participated in open-source projects and rep
 
 I have extensive **experience as a full-stack developer**, working on end-to-end web development projects. This includes designing and implementing user-friendly front-end interfaces using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript (including React.js)**. On the back-end, I have built robust server-side solutions with Node.js, **PHP**, **Laravel**, and have experience in working with databases like MongoDB and **MySQL**.
 
-  
+}}}$
   
 <br>
 
