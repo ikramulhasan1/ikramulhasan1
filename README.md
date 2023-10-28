@@ -40,15 +40,15 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 <!-- Projects Section -->
 <h2 align="center">My Projects</h2>
-```
-    https://github.com/ikramulhasan1/Exam-System.git 
-```
+
 <div align="center">
   <div style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; width: 80%; max-width: 600px;">
     <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
       <h3 style="font-size: 24px;">Project 1: Exam System</h3>
       <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
-      
+      ```
+      https://github.com/ikramulhasan1/Exam-System.git 
+      ```
     </div>
     <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-top: 10px;">
       <h3 style="font-size: 24px;">Project 2: E-commerce Website</h3>
@@ -65,7 +65,11 @@ Passionate web developer with expertise in front-end and back-end development. S
 <br>
 
 ## :mailbox: Contact with me
-
+### Setup and Usage:
+1. Clone the repository:
+   ```
+   git clone https://github.com/ikramulhasan1/Exam-System.git
+   ```
 <br/>
 <br/>
 
