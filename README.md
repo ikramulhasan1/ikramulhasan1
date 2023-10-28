@@ -38,6 +38,25 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 
+<!-- Projects Section -->
+<h2 align="center">My Projects</h2>
+
+<div align="center">
+  <div style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; width: 80%; max-width: 600px;">
+    <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+      <h3 style="font-size: 24px;">Project 1: Exam System</h3>
+      <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
+    </div>
+    <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-top: 10px;">
+      <h3 style="font-size: 24px;">Project 2: E-commerce Website</h3>
+      <p>Designed and implemented a fully functional e-commerce website with a responsive user interface.</p>
+    </div>
+    <!-- Add more projects with similar styling -->
+  </div>
+</div>
+
+
+
 
 
 <br>
