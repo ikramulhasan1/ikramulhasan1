@@ -5,7 +5,7 @@
 
 Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.
 
-## 👨‍💻 Skills & Experiance: 
+## 👨‍💻 Skills & Experience: 
 ✅ WordPress <br> 
 ✅ PHP / **Laravel** <br>
 ✅ HTML5 / CSS3 <br>
@@ -41,9 +41,9 @@ Passionate web developer with expertise in front-end and back-end development. S
 <!-- Projects Section -->
 ## 🌐 Projects
   
-#### 1. Exam System
+#### 1. Virtual Examination Center
 
-<div style="background-color: 2A0140; border-radius: 10px; padding: 20px;">
+<div style="background-color: red; border-radius: 10px; padding: 20px;">
     <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
 </div>
 
