@@ -39,11 +39,11 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 <!-- Projects Section -->
-### My Projects
+## 🌐 Projects
   
-#### Project 1: Exam System
+#### 1. Exam System
 
-<div style="background-color: #2A0140; border-radius: 10px; padding: 20px;">
+<div style="background-color: 2A0140; border-radius: 10px; padding: 20px;">
     <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
 </div>
 
