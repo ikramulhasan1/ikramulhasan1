@@ -70,5 +70,10 @@ Passionate web developer with expertise in front-end and back-end development. S
 ```
 https://github.com/ikramulhasan1/Exam-System.git 
 ```
+  
+#### 2. Restaurant-Meals-API
+<p>Designed a responsive restaurant website with a dynamic menu using Bootstrap and JavaScript. The website interacts with a custom API to display meal options and details.</p>
 
-
+```
+https://ikramulhasan1.github.io/Restaurant-Meals-API/
+```
