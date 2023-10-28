@@ -14,6 +14,31 @@ Passionate web developer with expertise in front-end and back-end development. S
 💻 Currently learning **React.js** <br>
 
 
+<!-- Experience Section -->
+<h2 align="center">Experience</h2>
+
+<div align="center">
+  <div style="background-color: #f7f7f7; border-radius: 10px; padding: 20px; width: 80%; max-width: 600px;">
+    <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px;">
+      <h3 style="font-size: 24px;">GitHub Contributor 💼</h3>
+      <p>
+        As a GitHub contributor, I actively participated in open-source projects and repositories, making meaningful contributions to the back-end components. My work involved implementing server-side features, optimizing database queries, and enhancing the overall performance of the projects. Collaborating with a global developer community enriched my back-end development skills.
+      </p>
+    </div>
+    <div style="border-bottom: 1px solid #ccc; padding-bottom: 10px; margin-top: 10px;">
+      <h3 style="font-size: 24px;">Back-End Developer 👩‍💻</h3>
+      <p>
+        My role as a back-end developer focused on building robust server-side solutions for various projects. I utilized technologies such as Node.js, PHP, and Laravel to create scalable and efficient back-end systems. This included designing RESTful APIs, implementing authentication mechanisms, and optimizing database performance.
+      </p>
+    </div>
+    <!-- Add more back-end development experiences with similar styling -->
+  </div>
+</div>
+
+
+
+
+
 
 <br>
 
