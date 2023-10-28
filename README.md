@@ -117,5 +117,21 @@ Designed an interactive leader-board using Bootstrap and CSS. The leader-board d
 https://ikramulhasan1.github.io/leader-board-css/
 ```
 
+### 7. Education-Tech
+Developed an interactive and user-friendly education technology platform using Bootstrap and CSS. The platform offers a wide range of educational resources and tools for students and teachers. Its responsive design ensures accessibility from various devices.
+
+```
+https://ikramulhasan1.github.io/Education-Tech-website/?
+```
+
+
+### 8. World-Cup
+Designed an immersive and responsive website for the World Cup using Bootstrap and CSS. The website provides real-time updates, match scores, and team information. Its responsive design ensures a great user experience on both desktop and mobile devices.
+
+```
+https://ikramulhasan1.github.io/world-cup/
+```
+
+
 
 
