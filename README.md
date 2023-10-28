@@ -54,7 +54,7 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 ## 📧 For Business Inquiries 
 ✅  ► hasanikramul926@gmail.com
-***<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">] hasanikramul926@gmail.com </p>***
+***<p align="center"> [hasanikramul926@gmail.com]  </p>***
 
 
 
