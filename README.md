@@ -9,20 +9,7 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 
-<!-- Experience Section -->
-## Experience
 
-### 💼 GitHub Contributor
-
-As a GitHub contributor, I actively participated in open-source projects and repositories, making meaningful contributions to the back-end components. My work involved implementing **server-side features**, **optimizing database queries**, and enhancing the overall performance of the projects. Collaborating with a global developer community enriched my back-end development skills.
-
-   
-### 👨‍💻 Fullstack Developer
-
-I have extensive **experience as a full-stack developer**, working on end-to-end web development projects. This includes designing and implementing user-friendly front-end interfaces using **HTML5**, **CSS3**, **Bootstrap**, and **JavaScript (including React.js)**. On the back-end, I have built robust server-side solutions with Node.js, **PHP**, **Laravel**, and have experience in working with databases like MongoDB and **MySQL**.
-
-  
-<br>
 
 ## 👨‍💻 Programming Languages
 <p>
