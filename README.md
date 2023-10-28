@@ -3,7 +3,7 @@
 ### Hi there 👋, I'm Ikramul Hasan
 # Front-End & Back-End Developer
 
-Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.
+Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering ***high-quality web solutions*** and collaborating effectively within a team.
 
 <br>
 
@@ -17,7 +17,7 @@ As a GitHub contributor, I actively participated in open-source projects and rep
    
 ### 👨‍💻 Front-End Developer
 
-In my role as a front-end developer, I designed and developed user-friendly and responsive web interfaces for multiple projects. I utilized **HTML5**, **CSS3**, **JavaScript**, and various **front-end frameworks such as Bootstrap and Tailwind CSS**. My work focused on creating visually appealing and performance-optimized web applications.
+In my role as a front-end developer, I designed and developed user-friendly and responsive web interfaces for multiple projects. I utilized **HTML5**, **CSS3**, **JavaScript**, and various **front-end frameworks** such as **Bootstrap** and **Tailwind CSS**. My work focused on creating visually appealing and performance-optimized web applications.
 
 
 ### 👩‍💻 Back-End Developer
