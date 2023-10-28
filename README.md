@@ -5,17 +5,10 @@
 
 Passionate web developer with expertise in front-end and back-end development. Skilled in **HTML**, **CSS**, **JavaScript**, **PHP**, and various frameworks like **Bootstrap**, **Tailwind CSS**, **React.js**, and **Laravel**. Experienced in creating responsive designs and integrating databases and APIs. Strong problem-solving abilities and a continuous learner, always seeking to stay up-to-date with the latest trends and technologies. Committed to delivering high-quality web solutions and collaborating effectively within a team.
 
-## 👨‍💻 Skills & Experience: 
-✅ WordPress <br> 
-✅ PHP / **Laravel** <br>
-✅ HTML5 / CSS3 <br>
-✅ Bootstrap / Tailwind CSS <br>
-✅ JavaScript <br>
-💻 Currently learning **React.js** <br>
-
 
 <!-- Experience Section -->
 ## Experience
+
 ### 💼 GitHub Contributor
 <p>
 As a GitHub contributor, I actively participated in open-source projects and repositories, making meaningful contributions to the back-end components. My work involved implementing server-side features, optimizing database queries, and enhancing the overall performance of the projects. Collaborating with a global developer community enriched my back-end development skills.
@@ -33,8 +26,6 @@ My role as a back-end developer focused on building robust server-side solutions
    
     <!-- Add more back-end development experiences with similar styling -->
   
-
-
 <br>
 
 ## 👨‍💻 Programming Languages
