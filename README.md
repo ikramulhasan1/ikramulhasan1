@@ -71,35 +71,35 @@ I have extensive **experience as a full-stack developer**, working on end-to-end
 <!-- Projects Section -->
 ## 🌐 Projects
   
-#### 1. Virtual Examination Center
+### 1. Virtual Examination Center
 <p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
 
 ```
 https://github.com/ikramulhasan1/Exam-System.git 
 ```
   
-#### 2. Restaurant-Meals-API
+### 2. Restaurant-Meals-API
 <p>Designed a responsive restaurant website with a dynamic menu using Bootstrap and JavaScript. The website interacts with a custom API to display meal options and details.</p>
 
 ```
 https://ikramulhasan1.github.io/Restaurant-Meals-API/
 ```
 
-#### 3. Football Team Buy
+### 3. Football Team Buy
 <p>Designed a dynamic website for buying and customizing football team kits using Bootstrap, CSS, and JavaScript. Users can select team colors, add player names, and view real-time previews of their custom kits.</p>
 
 ```
 https://ikramulhasan1.github.io/Best-Five-Select/
 ```
 
-#### 4. Simple Bank Money Master!
+### 4. Simple Bank Money Master!
 <p>Created "Money Master!", a simple online bank application using Bootstrap, CSS, and JavaScript. Users can manage their accounts, perform transactions, and track their financial activities.</p>
 
 ```
 https://ikramulhasan1.github.io/Simple-Bank-Money-Master/
 ```
 
-#### 5. Influencer-Gear
+### 5. Influencer-Gear
 Designed a stylish and responsive website for influencer gear and fashion using Bootstrap and CSS. The website showcases a variety of products, and its responsive design ensures an optimal viewing experience on all devices.
 
 ```
@@ -107,11 +107,10 @@ https://ikramulhasan1.github.io/influencer-gear/
 ```
 
 
-#### 6. Leader-Board
+### 6. Leader-Board
 Designed an interactive leader-board using Bootstrap and CSS. The leader-board displays real-time rankings, scores, and achievements for users or teams, making it an engaging feature for various applications and games.
 
 ```
 https://ikramulhasan1.github.io/leader-board-css/
 ```
 
-<a href="https://github.com/yourusername/Leader-Board" style="text-decoration: none; color: #0366d6;">View Repository</a>
