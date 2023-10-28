@@ -68,7 +68,9 @@ I have extensive **experience as a full-stack developer**, working on end-to-end
 <br>
 <br>
 
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/hamzamohdzubair/redant)
+## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
+
+
 <!-- Projects Section -->
 ## 🌐 Projects
   
@@ -116,4 +118,4 @@ https://ikramulhasan1.github.io/leader-board-css/
 ```
 
 
-<span style="background-color: #2C0140">This text has a yellow background.</span>
+
