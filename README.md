@@ -62,35 +62,30 @@ Passionate web developer with expertise in front-end and back-end development. S
 ## 🌐 Projects
   
 ### 1. Virtual Examination Center
-<p>Developed an online exam system with features such as user authentication, question management, and scoring.</p>
 
 ```
 https://github.com/ikramulhasan1/Exam-System.git 
 ```
   
 ### 2. Restaurant-Meals-API
-<p>Designed a responsive restaurant website with a dynamic menu using Bootstrap and JavaScript. The website interacts with a custom API to display meal options and details.</p>
 
 ```
 https://ikramulhasan1.github.io/Restaurant-Meals-API/
 ```
 
 ### 3. Football Team Buy
-<p>Designed a dynamic website for buying and customizing football team kits using Bootstrap, CSS, and JavaScript. Users can select team colors, add player names, and view real-time previews of their custom kits.</p>
 
 ```
 https://ikramulhasan1.github.io/Best-Five-Select/
 ```
 
 ### 4. Simple Bank Money Master!
-<p>Created "Money Master!", a simple online bank application using Bootstrap, CSS, and JavaScript. Users can manage their accounts, perform transactions, and track their financial activities.</p>
 
 ```
 https://ikramulhasan1.github.io/Simple-Bank-Money-Master/
 ```
 
 ### 5. Influencer-Gear
-Designed a stylish and responsive website for influencer gear and fashion using Bootstrap and CSS. The website showcases a variety of products, and its responsive design ensures an optimal viewing experience on all devices.
 
 ```
 https://ikramulhasan1.github.io/influencer-gear/
@@ -105,7 +100,6 @@ https://ikramulhasan1.github.io/leader-board-css/
 ```
 
 ### 7. Education-Tech
-Developed an interactive and user-friendly education technology platform using Bootstrap and CSS. The platform offers a wide range of educational resources and tools for students and teachers. Its responsive design ensures accessibility from various devices.
 
 ```
 https://ikramulhasan1.github.io/Education-Tech-website/?
@@ -113,7 +107,6 @@ https://ikramulhasan1.github.io/Education-Tech-website/?
 
 
 ### 8. World-Cup
-Designed an immersive and responsive website for the World Cup using Bootstrap and CSS. The website provides real-time updates, match scores, and team information. Its responsive design ensures a great user experience on both desktop and mobile devices.
 
 ```
 https://ikramulhasan1.github.io/world-cup/
