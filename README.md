@@ -93,7 +93,6 @@ https://ikramulhasan1.github.io/influencer-gear/
 
 
 ### 6. Leader-Board
-Designed an interactive leader-board using Bootstrap and CSS. The leader-board displays real-time rankings, scores, and achievements for users or teams, making it an engaging feature for various applications and games.
 
 ```
 https://ikramulhasan1.github.io/leader-board-css/
