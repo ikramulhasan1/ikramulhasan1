@@ -46,7 +46,7 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 
 ## 📧 For Business Inquiries 
-**✅ hasanikramul926@gmail.com**
+**✅ ikramulofficial10@gmail.com**
 
 
 
