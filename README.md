@@ -1,4 +1,4 @@
-![Web Developer](https://pbs.twimg.com/media/GHqdOcQasAAIprm?format=png&name=900x900)
+![Web Developer](https://pbs.twimg.com/media/GHqesSWbsAAyEFk?format=jpg&name=medium)
 
 ### Hi there 👋, I'm Ikramul Hasan
 # Front-End & Back-End Developer
