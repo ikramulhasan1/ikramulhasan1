@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEcqX01WLZnQA/profile-displaybackgroundimage-shrink_350_1400/0/1697727992609?e=1709164800&v=beta&t=zQv9Suoqu42ZuiggZIZ-kMXW0c50oNLbddSGc3Hwk6w)
+![Web Developer](https://pbs.twimg.com/media/GHqdOcQasAAIprm?format=png&name=900x900)
 
 ### Hi there 👋, I'm Ikramul Hasan
 # Front-End & Back-End Developer
@@ -47,69 +47,3 @@ Passionate web developer with expertise in front-end and back-end development. S
 
 ## 📧 For Business Inquiries 
 **✅ ikramulofficial10@gmail.com**
-
-
-
-
-<br>
-<br>
-
-
-
-
-<!-- Projects Section -->
-## 🌐 Projects
-  
-### 1. Virtual Examination Center
-
-```
-https://github.com/ikramulhasan1/Exam-System.git 
-```
-  
-### 2. Restaurant-Meals-API
-
-```
-https://ikramulhasan1.github.io/Restaurant-Meals-API/
-```
-
-### 3. Football Team Buy
-
-```
-https://ikramulhasan1.github.io/Best-Five-Select/
-```
-
-### 4. Simple Bank Money Master!
-
-```
-https://ikramulhasan1.github.io/Simple-Bank-Money-Master/
-```
-
-### 5. Influencer-Gear
-
-```
-https://ikramulhasan1.github.io/influencer-gear/
-```
-
-
-### 6. Leader-Board
-
-```
-https://ikramulhasan1.github.io/leader-board-css/
-```
-
-### 7. Education-Tech
-
-```
-https://ikramulhasan1.github.io/Education-Tech-website/?
-```
-
-
-### 8. World-Cup
-
-```
-https://ikramulhasan1.github.io/world-cup/
-```
-
-
-
-
